@@ -31,7 +31,7 @@ Translation of molecular findings to clinical practice
 
 📚 Education:
 
-M.M. in Hematology, Institute of Hematology, Peking University People's Hospital (2024-present)
+M.M. in Hematology, Institute of Hematology, Peking University People's Hospital (2025-present)
 
 🎯 Technical Expertise:
 
