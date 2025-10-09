@@ -33,8 +33,6 @@ Translation of molecular findings to clinical practice
 
 M.M. in Hematology, Institute of Hematology, Peking University People's Hospital (2024-present)
 
-B.M. in Clinical Medicine, XX University (2020-2024)
-
 🎯 Technical Expertise:
 
 Molecular techniques: RT-PCR, Digital PCR, Next-generation sequencing
