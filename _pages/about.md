@@ -44,4 +44,4 @@ Bioinformatics: R, Python, Linux command line
 Clinical data analysis and interpretation
 
 📫 Contact Me:
-Email / Github / Wechat
+Email(mailto:niu1351892722-71@qq.com) / Github(https://github.com/xiaoniuw/xiaoniuw.github.io/edit/master/_pages/about.md) / Wechat
