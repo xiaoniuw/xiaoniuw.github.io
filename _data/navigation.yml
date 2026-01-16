@@ -9,25 +9,7 @@
 
 main:
   - title: "Publications"
-    url: /https://pubmed.ncbi.nlm.nih.gov/38289496/
-
-  - title: "Talks"
-    url: /https://www.ted.com/    
-
-  - title: "learning"
-    url: /https://pubmed.ncbi.nlm.nih.gov/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  -# title: "Blog Posts"
-    url: /year-archive/
-    
-  -# title: "CV"
+    url: https://pubmed.ncbi.nlm.nih.gov/38289496/   
+  - title: "CV"
     url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
