@@ -23,7 +23,7 @@ repository               : "xiaoniuw/xiaoniuw.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/头像.png"
+  avatar           : "xiaoniuw.github.io/images/touxiang.png"
   name             : "Zhaocan Niu"
   pronouns         : # example: "she/her"  
   bio              : "Tomorrow will be better"
